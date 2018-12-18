@@ -1,4 +1,4 @@
 {
-    "Token": "process.env.BOT_TOKEN",
+    "Token": "",
     "Command": "?poll"
 }
